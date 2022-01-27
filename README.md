@@ -18,7 +18,7 @@
 **Currently working on:**
 
 * 👨‍💻 New SpringBoot Project
-* 📖 Coursework: CIT 594 (Data Structures and Software Design) • CIS 555 (Internet & Web System) • CIT 596 (Algorithms and Computation)
+* 📖 Coursework: CIS 580 (Compupter Vision) • CIS 555 (Internet & Web System) • CIT 596 (Algorithms and Computation)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/leedai/)
 
