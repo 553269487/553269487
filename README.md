@@ -17,8 +17,8 @@
 
 **Currently working on:**
 
-* 👨‍💻 New SpringBoot Project
-* 📖 Coursework: CIS 580 (Compupter Vision) • CIS 555 (Internet & Web System) • CIT 596 (Algorithms and Computation)
+* Golang
+* Solidity
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/leedai/)
 
