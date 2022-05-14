@@ -20,7 +20,7 @@
 * DataBase
 * Rust
 
-**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/leedai/)
+**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/qihangdai/)
 
 #### Languages & Tools
 
